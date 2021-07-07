@@ -1,0 +1,12 @@
+name: ChatMaster
+version: 1.0
+main: me.sweettie.ChatMaster.Main
+api-version: 1.17
+authors: [ Sweettie ]
+commands:
+  setcolor:
+    description: set color of your name
+    usage: /setcolor [name]
+  getcolors:
+    description: get all colors
+    usage: /getcolors
