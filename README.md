@@ -1,4 +1,4 @@
-# ChatColors
+# ChatColors **(Spigot 1.17)**
 this plugin allows players to change the colors of their nicknames
 
 this plugin has two commands:
